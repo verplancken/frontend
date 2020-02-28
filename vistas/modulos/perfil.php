@@ -494,7 +494,7 @@ SECCIÓN PERFIL
 
 													<small>
 								
-														<strong class="oferta" style="font-size:12px">USD $'.$value2["precio"].'</strong>
+														<strong class="oferta" style="font-size:12px">MXN $'.$value2["precio"].'</strong>
 
 													</small>
 
@@ -504,7 +504,7 @@ SECCIÓN PERFIL
 
 										}else{
 
-											echo '<h2 style="margin-top:-10px"><small>USD $'.$value2["precio"].'</small></h2>';
+											echo '<h2 style="margin-top:-10px"><small>MXN $'.$value2["precio"].'</small></h2>';
 
 										}
 										

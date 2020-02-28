@@ -110,7 +110,7 @@ TABLA CARRITO DE COMPRAS
 
 						<h4 class="sumaSubTotal">
 							
-							<strong>MX $<span>21</span></strong>
+							<strong>MXN $<span>21</span></strong>
 
 						</h4>
 
@@ -301,29 +301,29 @@ VENTANA MODAL PARA CHECKOUT
 								
 								<tr>
 									<td>Subtotal</td>	
-									<td><span class="cambioDivisa">USD</span> $<span class="valorSubtotal" valor="0">0</span></td>	
+									<td><span class="cambioDivisa">MXN</span> $<span class="valorSubtotal" valor="0">0</span></td>	
 								</tr>
 
 								<tr>
 									<td>Envío</td>	
-									<td><span class="cambioDivisa">USD</span> $<span class="valorTotalEnvio" valor="0">0</span></td>	
+									<td><span class="cambioDivisa">MXN</span> $<span class="valorTotalEnvio" valor="0">0</span></td>	
 								</tr>
 
 								<tr>
 									<td>Impuesto</td>	
-									<td><span class="cambioDivisa">USD</span> $<span class="valorTotalImpuesto" valor="0">0</span></td>	
+									<td><span class="cambioDivisa">MXN</span> $<span class="valorTotalImpuesto" valor="0">0</span></td>	
 								</tr>
 
 								<tr>
 									<td><strong>Total</strong></td>	
-									<td><strong><span class="cambioDivisa">USD</span> $<span class="valorTotalCompra" valor="0">0</span></strong></td>	
+									<td><strong><span class="cambioDivisa">MXN</span> $<span class="valorTotalCompra" valor="0">0</span></strong></td>	
 								</tr>
 
 							</tbody>	
 
 						</table>
 
-						 <div class="divisa">
+						<div class="divisa">
 
 						 	<select class="form-control" id="cambiarDivisa" name="divisa">
 						 		
